@@ -3,3 +3,4 @@ sim
 sei não
 ixi
 nossa
+ok
